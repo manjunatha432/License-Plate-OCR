@@ -1,0 +1,10 @@
+numpy
+pillow
+opencv-python
+opencv-contrib-python  
+matplotlib
+pandas
+ipykernel
+ultralytics
+paddlepaddle
+paddleocr
